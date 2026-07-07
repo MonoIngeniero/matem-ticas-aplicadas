@@ -54,30 +54,6 @@ Aplicar herramientas de programación para resolver problemas matemáticos, anal
 📂 Notebooks en Jupyter
 ```
 
----
-
-## Cómo ejecutar
-
-1. Clonar el repositorio.
-
-```bash
-git clone <URL_DEL_REPOSITORIO>
-```
-
-2. Instalar las dependencias necesarias.
-
-```bash
-pip install numpy matplotlib notebook
-```
-
-3. Abrir cualquiera de los notebooks.
-
-```bash
-jupyter notebook
-```
-
----
-
 ## Autor
 
 Veronica Flor Escobar
