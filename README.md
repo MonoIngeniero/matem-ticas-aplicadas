@@ -54,6 +54,8 @@ Aplicar herramientas de programación para resolver problemas matemáticos, anal
 📂 Notebooks en Jupyter
 ```
 
+---
+
 ## Autor
 
 Veronica Flor Escobar
